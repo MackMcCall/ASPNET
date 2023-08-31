@@ -2,9 +2,8 @@
 using Org.BouncyCastle.Security;
 using System.Collections.Generic;
 using System.Data;
-using Testing.Models;
 
-namespace Testing
+namespace Testing.Models
 {
     public class ProductRepository : IProductRepository
     {
@@ -15,6 +14,11 @@ namespace Testing
         public IEnumerable<Product> GetAllProducts()
         {
             return _conn.Query<Product>("SELECT * FROM PRODUCTS;");
+        }
+
+        public Product GetProduct(int id)
+        {
+            return _conn.QuerySingle<Product>("SELECT * FROM PRODUCTS WHERE ProductID = @id", new { id });
         }
     }
 }

@@ -1,6 +1,14 @@
 # BestBuy Product Management System
 
-This project is a CRUD (Create, Read, Update, Delete) web application built with ASP.NET Core MVC, C#, SQL Server, and Dapper ORM to manage a mock Best Buy product database.
+This project is a CRUD (Create, Read, Update, Delete) web application built with ASP.NET Core MVC, C#, MySQL, and Dapper ORM to manage a mock Best Buy product database.
+
+## This project demonstrates proficiency in:
+
+- Web development with ASP.NET Core MVC
+- C# programming
+- SQL database management
+- Object-Relational Mapping (ORM) with Dapper
+- Building user-friendly web applications
 
 ## Features:
 
@@ -18,7 +26,7 @@ This project is a CRUD (Create, Read, Update, Delete) web application built with
 
 - ASP.NET Core MVC (Backend Framework)
 - C# (Programming Language)
-- SQL Server (Database)
+- MySQL (Database)
 - Dapper ORM (Object Relational Mapper)
 - HTML (User Interface)
 
@@ -42,14 +50,6 @@ This project is a CRUD (Create, Read, Update, Delete) web application built with
   ```
 4. Configure the connection string in `appsettings.json` to point to your MySQL instance of the database.
 5. Build and run the application.
-
-## This project demonstrates proficiency in:
-
-- Web development with ASP.NET Core MVC
-- C# programming
-- SQL database management
-- Object-Relational Mapping (ORM) with Dapper
-- Building user-friendly and secure web applications
 
 ## Stay Connected:
 

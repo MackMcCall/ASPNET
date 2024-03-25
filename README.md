@@ -55,4 +55,4 @@ This project is a CRUD (Create, Read, Update, Delete) web application built with
 
 - Email: [mackmc9924@gmail.com](mailto:mackmc9924@gmail.com)
 - GitHub: [MackMcCall](https://github.com/MackMcCall)
-- Project Repository: [CoffeeScheduler Repo](https://github.com/MackMcCall/CRUDBestBuyDatabaseSite)
+- LinkedIn: [Mack McCall](https://www.linkedin.com/in/mackmccall/)

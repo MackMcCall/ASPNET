@@ -54,5 +54,5 @@ Built on ASP.NET Core MVC and leveraging C#, MySQL, and Dapper ORM, this applica
 ## Stay Connected:
 
 - Email: [mackmc9924@gmail.com](mailto:mackmc9924@gmail.com)
-- GitHub: [MackMcCall](https://github.com/MackMcCall)
+- GitHub: [Mack McCall](https://github.com/MackMcCall)
 - LinkedIn: [Mack McCall](https://www.linkedin.com/in/mackmccall/)
